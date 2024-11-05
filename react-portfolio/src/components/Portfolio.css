@@ -1,0 +1,21 @@
+/* Portfolio.css */
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .project-item {
+    width: 250px;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  .project-item img {
+    width: 100%;
+    border-radius: 4px;
+  }
+  
